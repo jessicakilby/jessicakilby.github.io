@@ -11,6 +11,12 @@ nav .brand-logo {
   color: #444;
 }
 
+.header {
+  background-color: #444;
+  border-radius: 20px;
+  border: 1px solid black;
+}
+
 p {
   line-height: 2rem;
 }
