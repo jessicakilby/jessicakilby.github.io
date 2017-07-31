@@ -5,3 +5,7 @@ body {
 .headshot {
 	border-radius: 100%;
 }
+
+.section-title {
+	text-transform: uppercase;
+}
