@@ -12,8 +12,18 @@ nav .brand-logo {
 }
 
 .header {
-  background-color: #444;
+  background-color: #009688;
   border-radius: 20px;
+  box-shadow: 10px 10px 5px #4db6ac;
+  font-family: 'Lobster', cursive;
+}
+
+.subheader {
+    font-size: 36px;
+} 
+
+.subheaderCaption {
+    font-size: 24px;
 }
 
 p {

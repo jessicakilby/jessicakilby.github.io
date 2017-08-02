@@ -6,6 +6,10 @@ body {
 	border-radius: 100%;
 }
 
+.header {
+	font-family: 'Lobster', cursive;
+}
+
 .section-title {
 	text-transform: uppercase;
 }
