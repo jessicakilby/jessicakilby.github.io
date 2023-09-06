@@ -15,7 +15,8 @@ nav .brand-logo {
   background-color: #009688;
   border-radius: 20px;
   box-shadow: 10px 10px 5px #4db6ac;
-  font-family: 'Lobster', cursive;
+  font-family: 'Roboto';
+  color: #444;
 }
 
 .subheader {
@@ -69,4 +70,9 @@ p {
 
 footer.page-footer {
   margin: 0;
+}
+
+.container {
+    font-family: 'Roboto';
+    color: #444;
 }
