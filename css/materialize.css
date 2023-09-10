@@ -979,13 +979,15 @@
   color: #00b8d4 !important;
 }
 
+
 .teal {
   background-color: #009688 !important;
 }
-
+/*
 .teal-text {
   color: #009688 !important;
 }
+*/
 
 .teal.lighten-5 {
   background-color: #e0f2f1 !important;
@@ -2862,8 +2864,8 @@ ul.staggered-list li {
 }
 
 .page-footer {
-  padding-top: 20px;
-  background-color: #ee6e73;
+    padding-top: 20px;
+    background-color: #BEBDB8;
 }
 
 .page-footer .footer-copyright {
@@ -3002,11 +3004,12 @@ td, th {
 }
 
 .collection {
-  margin: 0.5rem 0 1rem 0;
-  border: 1px solid #e0e0e0;
-  border-radius: 2px;
-  overflow: hidden;
-  position: relative;
+    margin: 0.5rem 0 3rem 0;
+    border: 1px solid #e0e0e0;
+    border-radius: 15px;
+    overflow: hidden;
+    position: relative;
+    background-color: #BEBDB8;
 }
 
 .collection .collection-item {
@@ -3396,7 +3399,7 @@ nav ul a span.badge {
 .row .col {
   float: left;
   box-sizing: border-box;
-  padding: 0 0.75rem;
+  padding: 1rem 0.75rem;
   min-height: 1px;
 }
 
