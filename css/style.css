@@ -12,8 +12,8 @@ nav .brand-logo {
 }
 
 .header {
-  background-color: #009688;
-  border-radius: 20px;
+  background-color: #fff;
+  border-radius: 10px;
   box-shadow: 10px 10px 5px #4db6ac;
   font-family: 'Roboto';
   color: #444;
@@ -70,9 +70,11 @@ p {
 
 footer.page-footer {
   margin: 0;
+  background-color: #fff;
 }
 
 .container {
     font-family: 'Roboto';
     color: #444;
 }
+
